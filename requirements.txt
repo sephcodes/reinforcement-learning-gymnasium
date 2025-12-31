@@ -1,0 +1,7 @@
+# required packages to run ALL examples
+conda install conda-forge::gymnasium
+conda install conda-forge::pygame
+conda install conda-forge::tqdm
+conda install conda-forge::matplotlib
+conda install pytorch::pytorch
+conda install conda-forge::box2d-py
