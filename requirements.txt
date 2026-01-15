@@ -5,3 +5,4 @@ conda install conda-forge::tqdm
 conda install conda-forge::matplotlib
 conda install pytorch::pytorch
 conda install conda-forge::box2d-py
+pip install gym-trading-env
